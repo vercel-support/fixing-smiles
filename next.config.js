@@ -1,5 +1,4 @@
 module.exports = {
-	distDir: 'build',
 	poweredByHeader: false,
 	assetPrefix: process.env.ASSET_HOST || '',
 	webpack(config) {
