@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+
+body {
+  @apply text-black;
+}
+
+a {
+  @apply border-b-2 transition hover:border-primary;
+}
+
+.shadow-brand {
+  box-shadow: rgb(97, 180, 192) 0 0 3rem;
+}
+
+h3 {
+  @apply font-semibold mb-1;
+}
+
+.container-sm {
+  width: 90%;
+  max-width: 960px;
+}
+
+.background-primary {
+  background-image: url('/bg-01.svg');
+  background-size: contain;
+  background-position: right top;
+  background-repeat: no-repeat;
+}
+
+@tailwind utilities;

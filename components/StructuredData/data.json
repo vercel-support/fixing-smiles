@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Dentist",
+  "name": "Fixing Smiles",
+  "image": "https://www.dentistatoluca.mx/dulce.jpg",
+  "priceRange": "$",
+  "currenciesAccepted": "MXN",
+  "telephone": "722 494 0675",
+  "email": "mailto:fixing.smiles@outlook.com",
+  "url": "https://www.dentistatoluca.mx",
+  "logo": "https://www.dentistatoluca.mx/logo.svg",
+  "openingHours": [
+    "Lun 09:00 - 18:00",
+    "Mar 09:00 - 18:00",
+    "Mie 09:00 - 18:00",
+    "Jue 09:00 - 18:00",
+    "Vie 09:00 - 18:00",
+    "Sab 09:00 - 18:00"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "addressCountry": "MX",
+    "addressLocality": "Toluca de Lerdo",
+    "addressRegion": "Estado de México",
+    "postalCode": "50018",
+    "streetAddress": "Calle Paseo de las Flores 552"
+  },
+  "hasMap": "https://www.google.com/maps/place/Paseo+de+las+Flores+552,+Delegaci%C3%B3n+San+Lorenzo+Tepaltitl%C3%A1n+I,+Residencial+las+Flores,+50018+Toluca+de+Lerdo,+M%C3%A9x.,+Mexico/@19.313117,-99.6312836,20.07z/data=!4m5!3m4!1s0x85cd8a0083c5ff27:0xd2f3396951b23011!8m2!3d19.3132266!4d-99.6309391",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "19.313253393106834",
+    "longitude": "-99.63093663729478"
+  },
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Servicios dentales",
+    "itemListElement": "Chequeos dentales regulares, Odontología de Emergencia, Higienista Dental, Tratamientos de Halitosis, Remoción de manchas, Desinfección completa de la boca, Blanqueamiento de dientes, Blanqueamiento de dientes con Zoom, Tiras Blancas Orales-B, Blanqueamiento de dientes internos, Blanqueamiento de dientes en el hogar, Geles blanqueadores de dientes, Blanqueamiento de dientes de por vida, Reparación de dientes, Empastes blancos, Incrustaciones dentales, Onlays dentales, Adhesión dental, coronas dentales, enderezamiento de dientes, coronas de cerámica, Invisalign, aparatos funcionales, sonrisas de seis meses, incógnito, Alineador Inman, ortopulso, tratamientos de conducto, reemplazo de dientes, puentes dentales, dentaduras postizas, implantes dentales, All-on-4, tratamientos de rechinamiento de dientes, guardia nocturna, plantilla, cerezen, maquillaje de sonrisas."
+  },
+  "paymentAccepted": "Efectivo, Tarjeta de débito, Tarjeta de crédito, Transferencia bancaria"
+}
